@@ -1,2 +1,2 @@
-# ГАС «Выборы»
+# ЭСПГ
 [СТАРТ](https://github.com/bruhbourne/stateduma/DUMA.html)
